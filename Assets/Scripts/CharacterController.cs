@@ -4,15 +4,13 @@ using UnityEngine;
 
 public class CharacterController : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    private void Update()
     {
-        
+        Move();
     }
 
-    // Update is called once per frame
-    void Update()
+    private void Move()
     {
-        
+        Debug.Log("Moving");
     }
 }
