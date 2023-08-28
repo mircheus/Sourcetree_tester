@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638288306276940806
-    m_Hash: 3681573651
+      ticks: 638288401873008549
+    m_Hash: 2813152236
   m_LockFileStatus:
     m_FilePath: C:/Users/mirch/YandexDisk/03_GameDev/Unity_Projects/Sourcetree_tester/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638288306682876108
-    m_Hash: 2237909257
+      ticks: 638288401873018549
+    m_Hash: 1560220471
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
