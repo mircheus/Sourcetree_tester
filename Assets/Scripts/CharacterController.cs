@@ -7,10 +7,16 @@ public class CharacterController : MonoBehaviour
     private void Update()
     {
         Move();
+        Rotate();
     }
 
     private void Move()
     {
         Debug.Log("Moving");
+    }
+
+    private void Rotate()
+    {
+        Debug.Log("Rotate");
     }
 }
